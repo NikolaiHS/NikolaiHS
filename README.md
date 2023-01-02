@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikolaiHS
+- 👋 Hi, I’m Nikolai Sørensen
 - 👀 I’m interested in coastal evolution monitoring through remote sensing.  
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on python tools to observe coastal evolution,
